@@ -2,7 +2,7 @@
 Contributors: svenl77, gfirem, themekraft
 Tags: buddyforms, pods, buddyforms pods, pods with form
 Requires at least: 4.9
-Tested up to: 6.1.1
+Tested up to: 7.1
 Stable tag: 1.0.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
